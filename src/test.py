@@ -12,3 +12,4 @@ def connection():
 user=input("Ingresa un valor: ")
 inge=user
 print("El valor de inge: "+ inge+" \nEl valor de user: "+user)
+print ("valor del mundo ")
